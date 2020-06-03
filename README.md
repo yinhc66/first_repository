@@ -6,6 +6,6 @@ notes.txt holds notes about the analysis
 
 results.txt contains output from the analysis
 
-Modification from the online interface
+modification from the online interface
 
-Modification in our local repository
+modification in our local repository
